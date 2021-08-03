@@ -1,0 +1,125 @@
+body {
+  text-align: center;
+}
+.top_container {
+  /* width: 200px;
+  height: 200px; */
+  margin: 0px;
+  background-color: #628395;
+  border: solid 3px;
+  border-color: black;
+}
+
+span {
+  text-decoration: underline;
+}
+#mountain {
+  left: 80px;
+  padding-bottom: 50px;
+  position: relative;
+}
+#cloud2 {
+  bottom: 550px;
+  left: 250px;
+  position: absolute;
+}
+.cloud-top {
+  position: absolute;
+  left: 1100px;
+}
+.selfWritten {
+  font-size: 2.5rem; /*40px*/
+
+  font-style: oblique;
+  font-family: "Lobster", cursive;
+}
+h1 {
+  font-family: "Kaushan Script", cursive;
+}
+.programmer {
+  padding-top: 50px;
+  width: 300px;
+}
+.tools-img {
+  margin: 10px 0px 5px 0px;
+
+  width: 50%;
+}
+#keshav {
+  font-size: 8rem;
+}
+.profile {
+  background-color: #e4fbff;
+  width: 100%;
+}
+.skills {
+  background-color: #f1ecc3;
+  width: 100%;
+}
+/* #giphy {
+  background-color: #edf6e5;
+} */
+.bottom-container {
+  background-color: #a0937d;
+  width: 100%;
+}
+.contact-me {
+  background-color: #a0937d;
+  width: 100%;
+}
+#contact {
+  margin-top: 10%;
+  width: 30%;
+}
+/* hr {
+  border-style: none;
+  border-width: 0px;
+  display: none;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+  margin-inline-end: 0;
+  margin-inline-start: 0o;
+  overflow: hidden;
+  unicode-bidi: isolate;
+} */
+/* .special-hr {
+  border-style: dotted, none, none, none;
+  border-width: 2px;
+  width: 10%;
+}
+.special-hr2 {
+  border-style: dotted, none, none, none;
+  border-width: 2px;
+  width: 13%;
+}
+.special-hr3 {
+  border-style: dotted, none, none, none;
+  border-width: 2px;
+  width: 28%; */
+
+span {
+  text-decoration: none;
+}
+h3 {
+  color: #11999e;
+}
+a {
+  color: #6b3f04;
+}
+h1 {
+  color: #66bfbf;
+}
+h2 {
+  color: #66bfbf;
+  font-weight: bold;
+}
+#contact-line {
+  color: rgb(0, 0, 0);
+}
+#about-line {
+  padding-bottom: 25px;
+}
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
